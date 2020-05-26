@@ -40,8 +40,4 @@ class Lyrics {
     }
     return lyrics;
   }
-
-  public static void main(String args[]) {
-    Lyrics.getLyrics(Lyrics.getUrl("Tonight (I wish I was your boy)","The 1975"));
-  }
 }
